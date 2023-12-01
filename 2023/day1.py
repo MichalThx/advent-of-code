@@ -27,3 +27,8 @@ for line in input:
     #if i == 10:
     #    break
 print(total)
+
+# text manipulation with
+# sed -i 's/seven/se7ven/' 2023/day1_1.txt
+# this allows for endings to be part of another digit
+# while keeping them in the right order
