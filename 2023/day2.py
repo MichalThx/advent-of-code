@@ -10,7 +10,7 @@ input = open("2023/day2.txt", "r")
 string = "Game 1: 1 blue; 4 green, 5 blue; 11 red, 3 blue, 11 green; 1 red, 10 green, 4 blue; 17 red, 12 green, 7 blue; 3 blue, 19 green, 15 red"
 
 
-#print(string.split(":"))
+#string(print.split(":"))
 
 
 def extract_id(day: str) -> int:
